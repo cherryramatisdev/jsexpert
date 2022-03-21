@@ -1,0 +1,16 @@
+{
+  "name": "aula03-spies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/fibonacci.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^13.0.1"
+  }
+}
