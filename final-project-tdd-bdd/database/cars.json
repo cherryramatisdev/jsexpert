@@ -1,21 +1,21 @@
 [
   {
-    "id": "25246396-1d46-4207-a301-1a613da2ffa3",
-    "name": "Camaro",
-    "releaseYear": 2021,
-    "available": true,
-    "gasAvailable": true
-  },
-  {
-    "id": "1d911423-dc7c-449a-ac07-3e8fbca82fcf",
-    "name": "Land Cruiser",
-    "releaseYear": 2021,
-    "available": true,
-    "gasAvailable": true
-  },
-  {
-    "id": "9afaf4a5-db04-46b7-931e-233c7c5b8f72",
+    "id": "a3352c8c-9c90-42db-98c9-23aae4c87376",
     "name": "Grand Cherokee",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "110a41d6-a112-446d-9267-f320500122ff",
+    "name": "LeBaron",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "27146a35-bfec-4209-8070-17e4eb1995a7",
+    "name": "Golf",
     "releaseYear": 2021,
     "available": true,
     "gasAvailable": true

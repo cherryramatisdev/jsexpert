@@ -1,12 +1,12 @@
 [
   {
-    "id": "4ef25203-9d55-4cae-bcb1-0d7086762a5c",
-    "name": "Hatchback",
+    "id": "a3f34087-ec08-4cdc-973e-cfe95816d2b0",
+    "name": "Crew Cab Pickup",
     "carIds": [
-      "25246396-1d46-4207-a301-1a613da2ffa3",
-      "1d911423-dc7c-449a-ac07-3e8fbca82fcf",
-      "9afaf4a5-db04-46b7-931e-233c7c5b8f72"
+      "a3352c8c-9c90-42db-98c9-23aae4c87376",
+      "110a41d6-a112-446d-9267-f320500122ff",
+      "27146a35-bfec-4209-8070-17e4eb1995a7"
     ],
-    "price": "58.76"
+    "price": "57.88"
   }
 ]
