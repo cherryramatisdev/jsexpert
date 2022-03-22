@@ -1,0 +1,23 @@
+[
+  {
+    "id": "25246396-1d46-4207-a301-1a613da2ffa3",
+    "name": "Camaro",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1d911423-dc7c-449a-ac07-3e8fbca82fcf",
+    "name": "Land Cruiser",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9afaf4a5-db04-46b7-931e-233c7c5b8f72",
+    "name": "Grand Cherokee",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
