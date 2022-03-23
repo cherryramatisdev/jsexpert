@@ -4,5 +4,6 @@
   "functions": 100,
   "lines": 100,
   "checkCoverage": true,
-  "reporter": ["text", "html"]
+  "reporter": ["text", "html"],
+  "exclude": ["src/repository/base/*.js"]
 }
